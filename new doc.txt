@@ -1,0 +1,26 @@
+1. Docker Task
+	a) Basic Commands: docker ps, docker ps -a, docker pull, docker run command ( Naming the container, -d, port binding), docker start, docker stop, docker rm, docker rmi, docker logs, docker build command, docker tag, docker push.
+
+	b) Task: 
+		i) Pull the ubuntu image. Create a container using that ubuntu image and take shell, then stop container and delete container.
+		ii) Create a httpd container using httpd image and bind to port 8000. (here create your website in html. Copy the html file to host machine to container using Docker Volume)
+		iii) Create a 2 containers using same httpd image and host it to 2 different ports like 9000 and 9010. (here create your website in html. Copy the html file to host machine to container using Docker Volume)
+		iv) Create a 3 containers of httpd image using docker-compose file and host the containers with different ports. (here create your website in html. Copy the html file to host machine to container using Docker Volume)
+		v) Create a python program of swapping 2 numbers and build a image of that program using Dockerfile and create a container and run the container.
+		vi) Build your own httpd image using Dockerfile and host it via container and push it to the docker repository.
+
+https://atxfiles.netgate.com/mirror/downloads/pfSense-CE-2.6.0-RELEASE-amd64.iso.gz
+
+https://www.practicepython.org/
+
+https://docs.cloudera.com/HDPDocuments/Ambari-2.7.1.0/bk_ambari-installation/content/ch_Deploy_and_Configure_a_HDP_Cluster.html
+
+https://semhar.com/2019/09/19/1-hdp-cluster-pre-requisite/
+
+https://slideplayer.com/slide/5277456/
+
+https://www.slideshare.net/vivekprajapatiankur/vivek-training
+
+https://careers.cdac.in/post-details/K2X52K
+
+https://peterhigginson.co.uk/lmc/
